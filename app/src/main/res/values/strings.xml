@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FbAccountKitTest</string>
+
+
+    <string name="FACEBOOK_APP_ID"></string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN"></string>
+
+
+    // if your Facebook App ID is 1234567, you should use ak1234567
+    <string name="ak_login_protocol_scheme"></string>
+
+
+</resources>
